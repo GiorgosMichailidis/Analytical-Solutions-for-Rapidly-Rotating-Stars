@@ -19,3 +19,5 @@ The notebooks consists of:
 3. Virial.ipynb
 4. Mass_Volume.ipynb
 5. Structure_plot.ipynb
+
+You may also find some .png files where you can see some models produced with these notebooks.
