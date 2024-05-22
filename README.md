@@ -20,4 +20,4 @@ The notebooks consists of:
 4. Mass_Volume.ipynb
 5. Structure_plot.ipynb
 
-You may also find some .png files where you can see some models produced with these notebooks.
+You may also find some .png files where you can see some models produced with these notebooks. There are structures of stars at the critical rotation case, the rigid rotation and j-constant differential rotation case.
