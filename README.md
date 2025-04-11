@@ -1,7 +1,7 @@
 # Analytical-Solutions-for-Rapidly-Rotating-Stars
 
 This series of Jupyter notebooks provides an effective and economical method for obtaining the structures of rapidly rotating polytropic stars and calculating other physical parameters, such as the mass and volume of the star. 
-These Python codes are based on the Izumi and Hachisu algorithm (https://articles.adsabs.harvard.edu//full/1986ApJS...61..479H/0000479.000.html), which calculates equilibrium configurations of rapidly rotating polytropic stars. 
+These Python codes are based on the Izumi Hachisu algorithm (https://articles.adsabs.harvard.edu//full/1986ApJS...61..479H/0000479.000.html), which calculates equilibrium configurations of rapidly rotating polytropic stars. 
 These stars consist of an ideal fluid with a polytropic equation of state P = Kρ^γ.  
 The procedure is iterative. You begin with an initial guess of the density profile. The algorithm then analytically solves the equations and returns a new density, which is used for the next iteration. This process continues 
 until the desired accuracy in the solutions is achieved.
